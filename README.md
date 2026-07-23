@@ -151,6 +151,8 @@ Downloads/
 
 ---
 
+## Screenshots
+
 <img width="720" height="740" alt="01_initial_state_styled" src="https://github.com/user-attachments/assets/2f66c707-cd61-4e60-a19d-ed8e0db810db" />
 <img width="720" height="740" alt="02_folder_selected_styled" src="https://github.com/user-attachments/assets/fb8e5d47-077a-479f-b5e9-04cad5ed324b" />
 <img width="720" height="740" alt="04_final_state_styled" src="https://github.com/user-attachments/assets/45ce5d5d-382c-4ad8-878f-590f3b44cf66" />
