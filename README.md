@@ -92,7 +92,7 @@ chmod +x dist/FileOrganizer && ./dist/FileOrganizer
 2. **Click "Browse…"** — pick the folder you want to organize
 3. **Set options:**
    - ✅ *Move files* — moves files into sub-folders *(default)*
-   - ☐ *Move files* unchecked — copies files, originals stay
+   - ✅ *Move files* unchecked — copies files, originals stay
    - ✅ *Dry Run* — preview only, nothing actually moves
 4. **Click "▶ Organize Now"**
 5. Watch the live log + progress bar
@@ -202,7 +202,7 @@ All actions are written to `file_organizer.log`:
 2025-06-14 10:23:01 INFO MOVE → [Images] vacation.jpg
 2025-06-14 10:23:01 INFO MOVE → [Documents] resume.pdf
 ...
-2025-06-14 10:23:02 INFO Organization complete!
+2025-06-14 10:23:02 INFO Organization complete!!
 ```
 
 ---
