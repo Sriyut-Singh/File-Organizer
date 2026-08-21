@@ -3,7 +3,6 @@ File Organizer - Automatically sorts files into categorized folders
 Author: Sriyut Singh
 """
 
-
 import os
 import shutil
 import logging
@@ -12,7 +11,6 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from datetime import datetime
 from pathlib import Path
-
 
 # ─── File Type Categories ────────────────────────────────────────────────────
 
@@ -379,4 +377,3 @@ if __name__ == "__main__":
     )
     app = FileOrganizerApp()
     app.mainloop()
-
